@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="Ex.01/Ex.01-05.csproj" />
-  <Project Path="Ex.06-07/Ex.06-07-14-18.csproj" />
-  <Project Path="Ex.08-11-16-20/Ex.08-11-16-20.csproj" />
+  <Project Path="Ex.01/Ex.01-05.csproj" Id="8468d19c-b9eb-4d7a-a4d6-a6b3d7319eea" />
+  <Project Path="Ex.06-07/Ex.06-07-14-18.csproj" Id="4024ef18-b22f-498e-881b-32e18363caea" />
+  <Project Path="Ex.08-11-16-20/Ex.08-11-16-20.csproj" Id="4cba6a7d-7249-4bd4-bee3-6856c85df384" />
+  <Project Path="Ex.09-12-17-19/Ex.09-12-17-19.csproj" Id="45af0be1-e9fb-46a6-be91-1aba2287040a" />
 </Solution>
