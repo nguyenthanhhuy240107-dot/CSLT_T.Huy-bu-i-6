@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ex._06_07_14_18
 {
-    internal class Program
+    internal class EX06_07_14_18
     {
         //EX06
         //Yêu cầu: Viết hàm `bool KiemTraNguyenTo(int n)` kiểm tra xem số nguyên n có phải số nguyên tố hay không.

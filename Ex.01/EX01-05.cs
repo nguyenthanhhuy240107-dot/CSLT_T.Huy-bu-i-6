@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ex._01_05
 {
-    internal class Program
+    internal class EX01_05
     {   //EX01
         //Yêu cầu: Viết hàm `int TinhTong(int a, int b)` nhận vào hai số nguyên và trả về tổng của chúng. 
         //Hướng dẫn: Bên trong thân hàm, bạn sử dụng từ khóa `return a + b;`.Trong hàm `Main`, gọi hàm này, truyền vào 2số cụ thể và in kết quả ra màn hình.
