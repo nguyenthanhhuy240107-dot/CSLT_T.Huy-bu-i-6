@@ -92,18 +92,13 @@ namespace Ex._08_11_16_20
             Console.Write("Nhập chuỗi: ");
             string s = Console.ReadLine();
 
-            Console.WriteLine("Số lượng nguyên âm: " + DemNguyenAm(s));
+            Console.WriteLine($"Số lượng nguyên âm: {DemNguyenAm(s)}");
             //EX11
-            if (KiemTraDoiXung(s))
-                Console.WriteLine("Chuỗi đối xứng");
-            else
-                Console.WriteLine("Chuỗi không đối xứng");
+            Console.WriteLine($"Chuỗi đối xứng: {KiemTraDoiXung(s)}");
             //EX16
-            Console.WriteLine("Chuỗi sau khi xóa trùng lặp: "
-                              + XoaTrungLap(s));
+            Console.WriteLine($"Chuỗi sau khi xóa trùng lặp: {XoaTrungLap(s)}");
             //EX20
-            Console.WriteLine("Số lượng từ trong chuỗi: "
-                              + DemSoTu(s));
+            Console.WriteLine($"Số lượng từ: {DemSoTu(s)}");
         }
     }
 }
